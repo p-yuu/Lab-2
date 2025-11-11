@@ -58,6 +58,7 @@
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn jieba stopwordsiso openai tqdm
 ```
+點擊全部執行即可得到輸出結果
 
 ## 結果與討論
 5.1 傳統方法成果
